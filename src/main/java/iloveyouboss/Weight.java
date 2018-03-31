@@ -1,5 +1,5 @@
 package iloveyouboss;
 
 public enum Weight {
-    DontCare
+    DontCare,Important
 }
